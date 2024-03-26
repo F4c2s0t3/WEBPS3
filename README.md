@@ -10,11 +10,11 @@ This project is for the users what no have computer or pendrive and FTP applicat
 Only Requirements: HEN or CFW in your system PlayStation 3 for install a stores or games in format pkg and others.
 ------------
 
-Now i answer most asked things:
+Now, I answer most asked things:
 
-¿How i open this page in my PlayStation 3?
+¿How I open this page in my PlayStation 3?
 
-Is so very simple!
+It's so very simple!
 
 1- Open your browser in your PlayStation 3 and press triangle 
 
